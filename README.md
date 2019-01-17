@@ -1,2 +1,0 @@
-# TemperConverter
-Created with CodeSandbox
